@@ -1,0 +1,6 @@
+PACKAGE_ID=org.qbittorrent.qbittorrent
+PACKAGE_NAME=qBittorrent
+PACKAGE_VERSION=4.6.15.0
+PACKAGE_DESCRIPTION=The qBittorrent BitTorrent client
+COMMAND=
+COMMAND_BIN=qbittorrent
