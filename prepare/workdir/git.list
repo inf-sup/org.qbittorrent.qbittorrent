@@ -18,5 +18,5 @@ commit=
 
 [qBittorrent]
 url=https://github.com/qbittorrent/qBittorrent.git
-version=release-4.6.5
+version=release-5.0.0rc1
 commit=
